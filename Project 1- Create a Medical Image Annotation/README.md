@@ -48,6 +48,7 @@ There are a few different visual symptoms that indicate pneumonia. The most impo
 ## Step 3: Quality
 ![Negative_Answers](https://github.com/edaaydinea/AI-Product-Manager-Nanodegree-Program/blob/main/Project%201-%20Create%20a%20Medical%20Image%20Annotation/Screenshots/Test_Questions_Negative.png)
 <p align="center"> Negative Answers </p>
+
 ![Positive_Answers](https://github.com/edaaydinea/AI-Product-Manager-Nanodegree-Program/blob/main/Project%201-%20Create%20a%20Medical%20Image%20Annotation/Screenshots/Test_Questions_Positive.png)
 <p align="center"> Positive Answers </p>
 
