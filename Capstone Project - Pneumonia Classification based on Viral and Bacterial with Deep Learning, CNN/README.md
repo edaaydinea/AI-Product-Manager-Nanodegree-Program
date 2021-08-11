@@ -35,13 +35,7 @@ Wq want to think about what our product is. What does it look like? Who uses it,
 
 Finally, what happens after launch? How do we ensure our product continues to perform well? Who will monitor it, how will they monitor it, and how often?
 
-# AI Product Business Proposal
-
-We proposed, "Personal Nutrionist with AI" mobile application.The application (AI algorithm) will suggest food based on the calories needed, weight, height, medical history of the user, which helps for weight maintaining, loss and gain as well. In case, if the user in a situation to take more calories in a party or an event, then AI will suggest the 
-foods, exercises to burn extra calories or fat. If the user doesn’t know the name of the food, then he/she can upload the photo of it.The AI will calculate the calories 
-and suggest food accordingly.
-
-The detailed desecription of the propsoal along with the use cases is available in the below file.
+The detailed desecription of the proposal along with the use cases is available in the below file.
 
 [capstone_project.pdf](https://github.com/edaaydinea/AI-Product-Manager-Nanodegree-Program/blob/main/Capstone%20Project%20-%20Pneumonia%20Classification%20based%20on%20Viral%20and%20Bacterial%20with%20Deep%20Learning%2C%20CNN/capstone-project.pdf)
 
